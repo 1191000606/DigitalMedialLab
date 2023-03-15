@@ -1,0 +1,103 @@
+/home/cyf/anaconda3/envs/DigitalMediaLab2/bin/python ./main.py --use_cuda --epoch_num=10 --criterion=L1Loss
+using cpu device
+Epoch  1 | Batch  60/418 | Time/Batch(ms) 208.42 | Train Loss 1.8946
+Epoch  1 | Batch 120/418 | Time/Batch(ms) 440.89 | Train Loss 0.0876
+Epoch  1 | Batch 180/418 | Time/Batch(ms) 679.13 | Train Loss 0.0632
+Epoch  1 | Batch 240/418 | Time/Batch(ms) 922.53 | Train Loss 0.0627
+Epoch  1 | Batch 300/418 | Time/Batch(ms) 1176.74 | Train Loss 0.0627
+Epoch  1 | Batch 360/418 | Time/Batch(ms) 1448.61 | Train Loss 0.0626
+--------------------------------------------------
+Epoch  1 | Time 102.8220 sec | Train Loss 0.3334 | Valid Loss 0.0175 | Valid Accuracy 0.0695
+--------------------------------------------------
+Saved model at pre_trained_models/mnist.pt!
+Epoch  2 | Batch  60/418 | Time/Batch(ms) 276.15 | Train Loss 0.0626
+Epoch  2 | Batch 120/418 | Time/Batch(ms) 547.83 | Train Loss 0.0626
+Epoch  2 | Batch 180/418 | Time/Batch(ms) 822.24 | Train Loss 0.0626
+Epoch  2 | Batch 240/418 | Time/Batch(ms) 1093.94 | Train Loss 0.0626
+Epoch  2 | Batch 300/418 | Time/Batch(ms) 1366.15 | Train Loss 0.0626
+Epoch  2 | Batch 360/418 | Time/Batch(ms) 1637.93 | Train Loss 0.0626
+--------------------------------------------------
+Epoch  2 | Time 114.0081 sec | Train Loss 0.0626 | Valid Loss 0.0175 | Valid Accuracy 0.0502
+--------------------------------------------------
+Epoch  3 | Batch  60/418 | Time/Batch(ms) 270.87 | Train Loss 0.0626
+Epoch  3 | Batch 120/418 | Time/Batch(ms) 544.39 | Train Loss 0.0626
+Epoch  3 | Batch 180/418 | Time/Batch(ms) 817.81 | Train Loss 0.0626
+Epoch  3 | Batch 240/418 | Time/Batch(ms) 1090.94 | Train Loss 0.0626
+Epoch  3 | Batch 300/418 | Time/Batch(ms) 1355.14 | Train Loss 0.0626
+Epoch  3 | Batch 360/418 | Time/Batch(ms) 1618.96 | Train Loss 0.0626
+--------------------------------------------------
+Epoch  3 | Time 112.8087 sec | Train Loss 0.0626 | Valid Loss 0.0175 | Valid Accuracy 0.0663
+--------------------------------------------------
+Epoch  4 | Batch  60/418 | Time/Batch(ms) 269.36 | Train Loss 0.0626
+Epoch  4 | Batch 120/418 | Time/Batch(ms) 542.30 | Train Loss 0.0626
+Epoch  4 | Batch 180/418 | Time/Batch(ms) 816.57 | Train Loss 0.0626
+Epoch  4 | Batch 240/418 | Time/Batch(ms) 1089.56 | Train Loss 0.0626
+Epoch  4 | Batch 300/418 | Time/Batch(ms) 1361.98 | Train Loss 0.0626
+Epoch  4 | Batch 360/418 | Time/Batch(ms) 1634.79 | Train Loss 0.0626
+--------------------------------------------------
+Epoch  4 | Time 114.2789 sec | Train Loss 0.0626 | Valid Loss 0.0174 | Valid Accuracy 0.0758
+--------------------------------------------------
+Saved model at pre_trained_models/mnist.pt!
+Epoch  5 | Batch  60/418 | Time/Batch(ms) 275.11 | Train Loss 0.0626
+Epoch  5 | Batch 120/418 | Time/Batch(ms) 544.21 | Train Loss 0.0626
+Epoch  5 | Batch 180/418 | Time/Batch(ms) 817.93 | Train Loss 0.0626
+Epoch  5 | Batch 240/418 | Time/Batch(ms) 1083.77 | Train Loss 0.0626
+Epoch  5 | Batch 300/418 | Time/Batch(ms) 1353.99 | Train Loss 0.0626
+Epoch  5 | Batch 360/418 | Time/Batch(ms) 1624.18 | Train Loss 0.0626
+--------------------------------------------------
+Epoch  5 | Time 113.4501 sec | Train Loss 0.0626 | Valid Loss 0.0175 | Valid Accuracy 0.0665
+--------------------------------------------------
+Epoch  6 | Batch  60/418 | Time/Batch(ms) 268.13 | Train Loss 0.0626
+Epoch  6 | Batch 120/418 | Time/Batch(ms) 537.09 | Train Loss 0.0626
+Epoch  6 | Batch 180/418 | Time/Batch(ms) 809.92 | Train Loss 0.0626
+Epoch  6 | Batch 240/418 | Time/Batch(ms) 1078.82 | Train Loss 0.0626
+Epoch  6 | Batch 300/418 | Time/Batch(ms) 1342.11 | Train Loss 0.0626
+Epoch  6 | Batch 360/418 | Time/Batch(ms) 1616.05 | Train Loss 0.0626
+--------------------------------------------------
+Epoch  6 | Time 112.7328 sec | Train Loss 0.0626 | Valid Loss 0.0175 | Valid Accuracy 0.0663
+--------------------------------------------------
+Epoch  7 | Batch  60/418 | Time/Batch(ms) 278.56 | Train Loss 0.0626
+Epoch  7 | Batch 120/418 | Time/Batch(ms) 551.61 | Train Loss 0.0626
+Epoch  7 | Batch 180/418 | Time/Batch(ms) 820.65 | Train Loss 0.0626
+Epoch  7 | Batch 240/418 | Time/Batch(ms) 1093.84 | Train Loss 0.0626
+Epoch  7 | Batch 300/418 | Time/Batch(ms) 1368.91 | Train Loss 0.0626
+Epoch  7 | Batch 360/418 | Time/Batch(ms) 1642.11 | Train Loss 0.0626
+--------------------------------------------------
+Epoch  7 | Time 114.1375 sec | Train Loss 0.0626 | Valid Loss 0.0175 | Valid Accuracy 0.0806
+--------------------------------------------------
+Epoch  8 | Batch  60/418 | Time/Batch(ms) 274.19 | Train Loss 0.0626
+Epoch  8 | Batch 120/418 | Time/Batch(ms) 547.49 | Train Loss 0.0626
+Epoch  8 | Batch 180/418 | Time/Batch(ms) 820.88 | Train Loss 0.0626
+Epoch  8 | Batch 240/418 | Time/Batch(ms) 1094.08 | Train Loss 0.0626
+Epoch  8 | Batch 300/418 | Time/Batch(ms) 1367.26 | Train Loss 0.0626
+Epoch  8 | Batch 360/418 | Time/Batch(ms) 1640.30 | Train Loss 0.0626
+Epoch     8: reducing learning rate of group 0 to 1.0000e-04.
+--------------------------------------------------
+Epoch  8 | Time 114.4235 sec | Train Loss 0.0626 | Valid Loss 0.0175 | Valid Accuracy 0.0620
+--------------------------------------------------
+Epoch  9 | Batch  60/418 | Time/Batch(ms) 278.51 | Train Loss 0.0625
+Epoch  9 | Batch 120/418 | Time/Batch(ms) 551.34 | Train Loss 0.0625
+Epoch  9 | Batch 180/418 | Time/Batch(ms) 822.66 | Train Loss 0.0625
+Epoch  9 | Batch 240/418 | Time/Batch(ms) 1095.87 | Train Loss 0.0625
+Epoch  9 | Batch 300/418 | Time/Batch(ms) 1367.36 | Train Loss 0.0625
+Epoch  9 | Batch 360/418 | Time/Batch(ms) 1640.19 | Train Loss 0.0625
+--------------------------------------------------
+Epoch  9 | Time 114.2984 sec | Train Loss 0.0625 | Valid Loss 0.0174 | Valid Accuracy 0.0409
+--------------------------------------------------
+Saved model at pre_trained_models/mnist.pt!
+Epoch 10 | Batch  60/418 | Time/Batch(ms) 280.82 | Train Loss 0.0625
+Epoch 10 | Batch 120/418 | Time/Batch(ms) 555.08 | Train Loss 0.0625
+Epoch 10 | Batch 180/418 | Time/Batch(ms) 828.65 | Train Loss 0.0625
+Epoch 10 | Batch 240/418 | Time/Batch(ms) 1101.73 | Train Loss 0.0625
+Epoch 10 | Batch 300/418 | Time/Batch(ms) 1374.67 | Train Loss 0.0625
+Epoch 10 | Batch 360/418 | Time/Batch(ms) 1647.31 | Train Loss 0.0625
+--------------------------------------------------
+Epoch 10 | Time 114.7937 sec | Train Loss 0.0625 | Valid Loss 0.0174 | Valid Accuracy 0.0638
+--------------------------------------------------
+Saved model at pre_trained_models/mnist.pt!
+--------------------------------------------------
+Cross Entropy Loss: 2.7725886906249615
+Mean Absolute Loss: 0.06250706579111799
+Mean Square Loss: 0.06249939150448087
+Accuracy: 0.06329113924050633
+
